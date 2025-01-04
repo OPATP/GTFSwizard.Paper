@@ -27,13 +27,7 @@ git clone https://github.com/username/research-experiment.git
 cd research-experiment
 ```
 
-### Running the Experiment
-
-1. **Data Preparation**: Run `01_preprocessing.R` to filter and prepare the GTFS data.
-2. **Analysis**: Execute `02_analysis.R` to simulate scenarios and calculate accessibility measures.
-3. **Visualization**: Use `03_visualization.R` to generate maps and plots.
-
-Run scripts sequentially:
+Run scripts:
 ```bash
 Rscript R/GTFSwizard2025.R
 ```
