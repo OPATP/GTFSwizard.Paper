@@ -1,0 +1,1 @@
+https://geoserver.iplanfor.fortaleza.ce.gov.br/LIMITES_ADMINISTRATIVOS/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=LIMITES_ADMINISTRATIVOS:vw_Fortaleza_Bairros&outputFormat=SHAPE-ZIP
