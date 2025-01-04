@@ -40,7 +40,7 @@ The experiment evaluates transit interventions using:
 - **Hub enhancements**: Reducing dwell times at major hubs.
 - **Frequency improvements**: Introducing new trips to reduce headways.
 
-Accessibility is measured using zone-to-zone travel times derived from GTFS data processed by the `GTFSwizard` package. A Gaussian decay function weighs job accessibility based on travel times. Land use data comes from the [Access to Opportunities](https://github.com/ipeaGIT/aopdata) Project.
+Accessibility is measured using zone-to-zone travel times derived from GTFS data processed by the `GTFSwizard` package. A Gaussian decay function weighs job accessibility based on travel times. Land use data comes from the [Access to Opportunities](https://github.com/ipeaGIT/aopdata) project.
 
 ## Results
 
