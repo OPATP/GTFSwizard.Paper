@@ -1,6 +1,6 @@
 This repository contains the scripts and data used to run the research experiment titled **"GTFSwizard: A set of tools for exploring and manipulating General Transit Feed Specification in R language"**. The study employs GTFS data and R scripts to evaluate the impact of operational changes in a public transport system.
 
-## Repository Structure
+## Repository structure
 
 - **`data/`**: Contains input and processed data files.
 - **`scripts/`**: Includes the only R scripts used for data preparation, analysis, and visualization.
