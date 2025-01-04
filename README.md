@@ -24,7 +24,7 @@ This repository contains the scripts and data used to run the research experimen
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/OPATP/GTFSwizard.Paper.git
-cd research-experiment
+cd GTFSwizard.Paper
 ```
 
 Run scripts:
