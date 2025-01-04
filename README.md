@@ -6,8 +6,6 @@ This repository contains the scripts and data used to run the research experimen
 - **`scripts/`**: Includes the only R scripts used for data preparation, analysis, and visualization.
 - **`figs/`**: Stores output figures and visualizations.
 
-## Setup
-
 ### Prerequisites
 
 - R (≥ 4.0)
