@@ -18,7 +18,7 @@ This repository contains the scripts and data used to run the research experimen
   - `parallel`
   - `viridis`
 
-## Cloning the Repository
+## Running the experiment
 
 Clone this repository to your local machine:
 ```bash
