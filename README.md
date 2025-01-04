@@ -6,7 +6,7 @@ This repository contains the scripts and data used to run the research experimen
 - **`scripts/`**: Includes the only R scripts used for data preparation, analysis, and visualization.
 - **`figs/`**: Stores output figures and visualizations.
 
-### Prerequisites
+## Prerequisites
 
 - R (≥ 4.0)
 - Required R packages:
@@ -18,7 +18,7 @@ This repository contains the scripts and data used to run the research experimen
   - `parallel`
   - `viridis`
 
-### Cloning the Repository
+## Cloning the Repository
 
 Clone this repository to your local machine:
 ```bash
