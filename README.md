@@ -52,5 +52,5 @@ Results include:
 
 ## References
 
-- GTFSwizard documentation [click here](https://CRAN.R-project.org/package=GTFSwizard)!
-- Research framework and methodology detailed in accompanying documentation.
+- For GTFSwizard documentation [click here](https://CRAN.R-project.org/package=GTFSwizard)!
+- Paper to be published.
